@@ -609,6 +609,7 @@
   * [Mfcc](machine_learning/mfcc.py)
   * [Multilayer Perceptron Classifier](machine_learning/multilayer_perceptron_classifier.py)
   * [Polynomial Regression](machine_learning/polynomial_regression.py)
+  * [Principle Component Analysis](machine_learning/principle_component_analysis.py)
   * [Scoring Functions](machine_learning/scoring_functions.py)
   * [Self Organizing Map](machine_learning/self_organizing_map.py)
   * [Sequential Minimum Optimization](machine_learning/sequential_minimum_optimization.py)
