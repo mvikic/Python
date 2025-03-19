@@ -119,6 +119,7 @@ lint.ignore = [
   "PT018",   # Assertion should be broken down into multiple parts
   "S101",    # Use of `assert` detected -- DO NOT FIX
   "S311",    # Standard pseudo-random generators are not suitable for cryptographic purposes -- FIX ME
+  "SIM905",  # Consider using a list literal instead of `str.split` -- DO NOT FIX
   "SLF001",  # Private member accessed: `_Iterator` -- FIX ME
   "UP038",   # Use `X | Y` in `{}` call instead of `(X, Y)` -- DO NOT FIX
 ]
@@ -134,9 +135,6 @@ lint.per-file-ignores."machine_learning/sequential_minimum_optimization.py" = [
 ]
 lint.per-file-ignores."matrix/sherman_morrison.py" = [
   "SIM103",
-]
-lint.per-file-ignores."other/l*u_cache.py" = [
-  "RUF012",
 ]
 lint.per-file-ignores."physics/newtons_second_law_of_motion.py" = [
   "BLE001",
