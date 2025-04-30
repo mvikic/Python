@@ -443,6 +443,7 @@
   * [Present Value](financial/present_value.py)
   * [Price Plus Tax](financial/price_plus_tax.py)
   * [Simple Moving Average](financial/simple_moving_average.py)
+  * [Time And Half Pay](financial/time_and_half_pay.py)
 
 ## Fractals
   * [Julia Sets](fractals/julia_sets.py)
@@ -1167,6 +1168,8 @@
     * [Sol1](project_euler/problem_131/sol1.py)
   * Problem 135
     * [Sol1](project_euler/problem_135/sol1.py)
+  * Problem 136
+    * [Sol1](project_euler/problem_136/sol1.py)
   * Problem 144
     * [Sol1](project_euler/problem_144/sol1.py)
   * Problem 145
